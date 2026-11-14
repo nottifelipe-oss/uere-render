@@ -1,0 +1,179 @@
+{
+    "updated":  "2026-11-14T18:33:38.0779204Z",
+    "state":  "parado",
+    "current":  "",
+    "overall":  0,
+    "img":  null,
+    "img_label":  "",
+    "bpm":  120,
+    "jobs":  [
+                 {
+                     "label":  "COMPLETO  cromado",
+                     "kind":  "BLENDER",
+                     "done":  5,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "COMPLETO  disco ball",
+                     "kind":  "BLENDER",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "ASAS  cromado",
+                     "kind":  "BLENDER",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "ASAS  disco ball",
+                     "kind":  "BLENDER",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "TYPE  cromado",
+                     "kind":  "BLENDER",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "TYPE  disco ball",
+                     "kind":  "BLENDER",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "COMPLETO  cromado  vermelho",
+                     "kind":  "AE",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "COMPLETO  cromado  verde",
+                     "kind":  "AE",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "COMPLETO  cromado  rosa",
+                     "kind":  "AE",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "COMPLETO  disco ball  vermelho",
+                     "kind":  "AE",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "COMPLETO  disco ball  verde",
+                     "kind":  "AE",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "COMPLETO  disco ball  rosa",
+                     "kind":  "AE",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "ASAS  cromado  vermelho",
+                     "kind":  "AE",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "ASAS  cromado  verde",
+                     "kind":  "AE",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "ASAS  cromado  rosa",
+                     "kind":  "AE",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "ASAS  disco ball  vermelho",
+                     "kind":  "AE",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "ASAS  disco ball  verde",
+                     "kind":  "AE",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "ASAS  disco ball  rosa",
+                     "kind":  "AE",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "TYPE  cromado  vermelho",
+                     "kind":  "AE",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "TYPE  cromado  verde",
+                     "kind":  "AE",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "TYPE  cromado  rosa",
+                     "kind":  "AE",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "TYPE  disco ball  vermelho",
+                     "kind":  "AE",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "TYPE  disco ball  verde",
+                     "kind":  "AE",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 },
+                 {
+                     "label":  "TYPE  disco ball  rosa",
+                     "kind":  "AE",
+                     "done":  0,
+                     "total":  480,
+                     "status":  "fila"
+                 }
+             ]
+}
