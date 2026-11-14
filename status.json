@@ -1,25 +1,25 @@
 {
-    "updated":  "2026-11-14T22:12:20.0765336Z",
+    "updated":  "2026-11-14T22:15:20.4578675Z",
     "state":  "renderizando",
-    "current":  "COMPLETO  cromado",
-    "overall":  4.1,
-    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/577b870d977591f6e59117cdf3aa31c92b1fd4aa/preview.jpg",
-    "img_label":  "COMPLETO  cromado  ·  uere_v4_completo_escuro_0463.png",
+    "current":  "COMPLETO  disco ball",
+    "overall":  4.2,
+    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/9876db0caf888f19b0feb7d43b1070b387d207e7/preview.jpg",
+    "img_label":  "COMPLETO  disco ball  ·  uere_v4_completo_escuro_disco_0005.png",
     "bpm":  120,
     "jobs":  [
                  {
                      "label":  "COMPLETO  cromado",
                      "kind":  "BLENDER",
-                     "done":  467,
+                     "done":  480,
                      "total":  480,
-                     "status":  "renderizando"
+                     "status":  "ok"
                  },
                  {
                      "label":  "COMPLETO  disco ball",
                      "kind":  "BLENDER",
-                     "done":  0,
+                     "done":  8,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "renderizando"
                  },
                  {
                      "label":  "ASAS  cromado",
