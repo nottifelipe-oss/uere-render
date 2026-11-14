@@ -1,18 +1,18 @@
 {
-    "updated":  "2026-11-14T20:28:06.4415430Z",
-    "state":  "parado",
-    "current":  "",
-    "overall":  0,
-    "img":  null,
-    "img_label":  "",
+    "updated":  "2026-11-14T20:31:07.7798214Z",
+    "state":  "renderizando",
+    "current":  "COMPLETO  cromado",
+    "overall":  0.2,
+    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/efb926aa7ce44205fcc987175d68a03766310975/preview.jpg",
+    "img_label":  "COMPLETO  cromado  ·  uere_v4_completo_escuro_0024.png",
     "bpm":  120,
     "jobs":  [
                  {
                      "label":  "COMPLETO  cromado",
                      "kind":  "BLENDER",
-                     "done":  5,
+                     "done":  26,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "renderizando"
                  },
                  {
                      "label":  "COMPLETO  disco ball",
