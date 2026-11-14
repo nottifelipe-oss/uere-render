@@ -60,7 +60,10 @@ footer { color:var(--dim); font-size:12px; margin-top:22px; }
 </main>
 <script>
 var REPO = "nottifelipe-oss/uere-render";
-var URL_STATUS = "https://api.github.com/repos/" + REPO + "/contents/status.json?ref=status";
+// status lido do raw.githubusercontent (sem limite por IP); a API do GitHub fica só de reserva,
+// porque ela aceita no máximo 60 consultas por hora por rede sem login
+var URL_RAW = "https://raw.githubusercontent.com/" + REPO + "/status/status.json";
+var URL_API = "https://api.github.com/repos/" + REPO + "/contents/status.json?ref=status";
 
 function el(tag, cls, txt) { var e = document.createElement(tag); if (cls) e.className = cls; if (txt != null) e.textContent = txt; return e; }
 function ago(iso) {
@@ -119,9 +122,13 @@ function render(s) {
     document.getElementById("cap").textContent = s.img_label || "";
   }
 }
+function getJSON(url, headers) {
+  return fetch(url, { headers: headers || {}, cache: "no-store" })
+    .then(function (r) { if (!r.ok) throw r.status; return r.json(); });
+}
 function tick() {
-  fetch(URL_STATUS, { headers: { "Accept": "application/vnd.github.raw" }, cache: "no-store" })
-    .then(function (r) { if (!r.ok) throw r.status; return r.json(); })
+  getJSON(URL_RAW + "?t=" + Date.now())
+    .catch(function () { return getJSON(URL_API, { "Accept": "application/vnd.github.raw" }); })
     .then(render)
     .catch(function () {
       if (last) document.getElementById("when").textContent = "atualizado " + ago(last.updated) + " · reconectando…";
