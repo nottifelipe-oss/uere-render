@@ -1,5 +1,5 @@
 {
-    "updated":  "2026-11-14T18:39:40.5319583Z",
+    "updated":  "2026-11-14T18:42:40.5380851Z",
     "state":  "parado",
     "current":  "",
     "overall":  0,
@@ -175,5 +175,10 @@
                      "total":  480,
                      "status":  "fila"
                  }
-             ]
+             ],
+    "delivery":  {
+                     "done":  0,
+                     "total":  18,
+                     "link":  "https://drive.google.com/drive/folders/1o0JQplQZ5iNjRAn68oRWQvm3UarYdIgt?usp=sharing"
+                 }
 }
