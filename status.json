@@ -1,6 +1,6 @@
 {
-    "updated":  "2026-11-14T19:17:26.3139166Z",
-    "state":  "renderizando",
+    "updated":  "2026-11-14T19:20:23.7031275Z",
+    "state":  "pausado",
     "current":  "COMPLETO  cromado",
     "overall":  0,
     "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/09d83bdaae81df86553fa3f28ab5f16e16ac3091/preview.jpg",
@@ -10,9 +10,9 @@
                  {
                      "label":  "COMPLETO  cromado",
                      "kind":  "BLENDER",
-                     "done":  4,
+                     "done":  5,
                      "total":  480,
-                     "status":  "renderizando"
+                     "status":  "pausado"
                  },
                  {
                      "label":  "COMPLETO  disco ball",
