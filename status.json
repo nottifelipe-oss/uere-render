@@ -1,10 +1,10 @@
 {
-    "updated":  "2026-11-14T23:18:25.1488845Z",
+    "updated":  "2026-11-14T23:21:25.4435703Z",
     "state":  "renderizando",
     "current":  "COMPLETO  disco ball",
-    "overall":  6.6,
-    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/384ea6c6231af45a657c93cb0f1ea2949af6ecb1/preview.jpg",
-    "img_label":  "COMPLETO  disco ball  ·  uere_v4_completo_escuro_disco_0275.png",
+    "overall":  6.7,
+    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/580f97081b7f9f63b373504e206595f3eadc3c83/preview.jpg",
+    "img_label":  "COMPLETO  disco ball  ·  uere_v4_completo_escuro_disco_0295.png",
     "bpm":  120,
     "jobs":  [
                  {
@@ -17,7 +17,7 @@
                  {
                      "label":  "COMPLETO  disco ball",
                      "kind":  "BLENDER",
-                     "done":  280,
+                     "done":  297,
                      "total":  480,
                      "status":  "renderizando"
                  },
