@@ -81,6 +81,9 @@ function row(label, done, total, ok, extra) {
 }
 var last = null;
 function render(s) {
+  // aceita a lista também no formato antigo do PowerShell 5 ({value: [...], Count})
+  if (s.jobs && !Array.isArray(s.jobs)) s.jobs = s.jobs.value || [];
+  s.jobs = s.jobs || [];
   last = s;
   document.getElementById("when").textContent = "atualizado " + ago(s.updated);
   var dot = document.getElementById("dot");
