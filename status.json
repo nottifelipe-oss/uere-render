@@ -1,16 +1,16 @@
 {
-    "updated":  "2026-11-14T21:33:19.5537010Z",
+    "updated":  "2026-11-14T21:36:19.3763175Z",
     "state":  "renderizando",
     "current":  "COMPLETO  cromado",
-    "overall":  2.8,
-    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/d9c203c46b1a78bc17eda446bfea953f7e5d9b9b/preview.jpg",
-    "img_label":  "COMPLETO  cromado  ·  uere_v4_completo_escuro_0318.png",
+    "overall":  2.9,
+    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/9b364f6cb8e46c460d80b2d7ae968a4e8e3e35a5/preview.jpg",
+    "img_label":  "COMPLETO  cromado  ·  uere_v4_completo_escuro_0328.png",
     "bpm":  120,
     "jobs":  [
                  {
                      "label":  "COMPLETO  cromado",
                      "kind":  "BLENDER",
-                     "done":  321,
+                     "done":  331,
                      "total":  480,
                      "status":  "renderizando"
                  },
