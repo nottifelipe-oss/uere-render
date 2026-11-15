@@ -1,9 +1,9 @@
 {
-    "updated":  "2026-11-15T07:49:04.1957121Z",
-    "state":  "renderizando",
-    "current":  "TYPE  disco ball",
+    "updated":  "2026-11-15T07:49:42.9019728Z",
+    "state":  "parado",
+    "current":  "",
     "overall":  25,
-    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/775757f2835747def9b7e06c272b24091aec3e83/preview.jpg",
+    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/c215e24f7600408db4747bc6a394e3bcc4eca4e1/preview.jpg",
     "img_label":  "TYPE  disco ball  ·  uere_v4_type_escuro_disco_0475.png",
     "bpm":  120,
     "jobs":  [
@@ -45,140 +45,140 @@
                  {
                      "label":  "TYPE  disco ball",
                      "kind":  "BLENDER",
-                     "done":  477,
+                     "done":  480,
                      "total":  480,
-                     "status":  "renderizando"
+                     "status":  "ok"
                  },
                  {
                      "label":  "COMPLETO  cromado  vermelho",
                      "kind":  "AE",
                      "done":  0,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "sem fonte"
                  },
                  {
                      "label":  "COMPLETO  cromado  verde",
                      "kind":  "AE",
                      "done":  0,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "sem fonte"
                  },
                  {
                      "label":  "COMPLETO  cromado  rosa",
                      "kind":  "AE",
                      "done":  0,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "sem fonte"
                  },
                  {
                      "label":  "COMPLETO  disco ball  vermelho",
                      "kind":  "AE",
                      "done":  0,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "sem fonte"
                  },
                  {
                      "label":  "COMPLETO  disco ball  verde",
                      "kind":  "AE",
                      "done":  0,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "sem fonte"
                  },
                  {
                      "label":  "COMPLETO  disco ball  rosa",
                      "kind":  "AE",
                      "done":  0,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "sem fonte"
                  },
                  {
                      "label":  "ASAS  cromado  vermelho",
                      "kind":  "AE",
                      "done":  0,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "sem fonte"
                  },
                  {
                      "label":  "ASAS  cromado  verde",
                      "kind":  "AE",
                      "done":  0,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "sem fonte"
                  },
                  {
                      "label":  "ASAS  cromado  rosa",
                      "kind":  "AE",
                      "done":  0,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "sem fonte"
                  },
                  {
                      "label":  "ASAS  disco ball  vermelho",
                      "kind":  "AE",
                      "done":  0,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "sem fonte"
                  },
                  {
                      "label":  "ASAS  disco ball  verde",
                      "kind":  "AE",
                      "done":  0,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "sem fonte"
                  },
                  {
                      "label":  "ASAS  disco ball  rosa",
                      "kind":  "AE",
                      "done":  0,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "sem fonte"
                  },
                  {
                      "label":  "TYPE  cromado  vermelho",
                      "kind":  "AE",
                      "done":  0,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "sem fonte"
                  },
                  {
                      "label":  "TYPE  cromado  verde",
                      "kind":  "AE",
                      "done":  0,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "sem fonte"
                  },
                  {
                      "label":  "TYPE  cromado  rosa",
                      "kind":  "AE",
                      "done":  0,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "sem fonte"
                  },
                  {
                      "label":  "TYPE  disco ball  vermelho",
                      "kind":  "AE",
                      "done":  0,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "sem fonte"
                  },
                  {
                      "label":  "TYPE  disco ball  verde",
                      "kind":  "AE",
                      "done":  0,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "sem fonte"
                  },
                  {
                      "label":  "TYPE  disco ball  rosa",
                      "kind":  "AE",
                      "done":  0,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "sem fonte"
                  }
              ],
     "delivery":  {
                      "done":  0,
-                     "total":  18,
+                     "total":  0,
                      "link":  "https://drive.google.com/drive/folders/1o0JQplQZ5iNjRAn68oRWQvm3UarYdIgt?usp=sharing"
                  }
 }
