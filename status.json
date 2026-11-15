@@ -1,8 +1,8 @@
 {
-    "updated":  "2026-11-15T23:30:18.7612144Z",
+    "updated":  "2026-11-15T23:33:18.8685010Z",
     "state":  "renderizando",
     "current":  "TYPE  disco ball  verde",
-    "overall":  92.9,
+    "overall":  95,
     "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/d498714328ab747766331149b0c161436fdc4f8d/preview.jpg",
     "img_label":  "TYPE  disco ball  ·  uere_v4_type_escuro_disco_0480.png",
     "bpm":  120,
@@ -164,7 +164,7 @@
                  {
                      "label":  "TYPE  disco ball  verde",
                      "kind":  "AE",
-                     "done":  139,
+                     "done":  380,
                      "total":  480,
                      "status":  "renderizando"
                  },
