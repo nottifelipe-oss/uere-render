@@ -1,10 +1,10 @@
 {
-    "updated":  "2026-11-15T02:00:40.4756886Z",
+    "updated":  "2026-11-15T02:03:40.6688327Z",
     "state":  "renderizando",
     "current":  "ASAS  disco ball",
-    "overall":  12.8,
-    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/75b2f007d800774053052f3b57fd6781beffc8f4/preview.jpg",
-    "img_label":  "ASAS  disco ball  ·  uere_v4_asas_escuro_disco_0035.png",
+    "overall":  13,
+    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/7912056e9de7007902b0e2e91db2cfb76a5d075e/preview.jpg",
+    "img_label":  "ASAS  disco ball  ·  uere_v4_asas_escuro_disco_0055.png",
     "bpm":  120,
     "jobs":  [
                  {
@@ -31,7 +31,7 @@
                  {
                      "label":  "ASAS  disco ball",
                      "kind":  "BLENDER",
-                     "done":  39,
+                     "done":  56,
                      "total":  480,
                      "status":  "renderizando"
                  },
