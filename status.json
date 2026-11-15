@@ -1,10 +1,10 @@
 {
-    "updated":  "2026-11-15T05:42:58.6115558Z",
+    "updated":  "2026-11-15T05:45:58.0379165Z",
     "state":  "renderizando",
-    "current":  "TYPE  cromado",
-    "overall":  20.7,
-    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/50a0819b8e359f9b7339af08871521961034f280/preview.jpg",
-    "img_label":  "TYPE  cromado  ·  uere_v4_type_escuro_0465.png",
+    "current":  "TYPE  disco ball",
+    "overall":  20.9,
+    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/408e50be47a490934dd976f071e11f7bbde1093f/preview.jpg",
+    "img_label":  "TYPE  disco ball  ·  uere_v4_type_escuro_disco_0005.png",
     "bpm":  120,
     "jobs":  [
                  {
@@ -38,16 +38,16 @@
                  {
                      "label":  "TYPE  cromado",
                      "kind":  "BLENDER",
-                     "done":  466,
+                     "done":  480,
                      "total":  480,
-                     "status":  "renderizando"
+                     "status":  "ok"
                  },
                  {
                      "label":  "TYPE  disco ball",
                      "kind":  "BLENDER",
-                     "done":  0,
+                     "done":  8,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "renderizando"
                  },
                  {
                      "label":  "COMPLETO  cromado  vermelho",
