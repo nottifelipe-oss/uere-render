@@ -1,10 +1,10 @@
 {
-    "updated":  "2026-11-15T05:03:57.7174138Z",
+    "updated":  "2026-11-15T05:06:57.7426608Z",
     "state":  "renderizando",
     "current":  "TYPE  cromado",
-    "overall":  19.4,
-    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/7fba8edb4fe64e0da1399619838210b141322ddd/preview.jpg",
-    "img_label":  "TYPE  cromado  ·  uere_v4_type_escuro_0315.png",
+    "overall":  19.5,
+    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/414ecf241b9e94d67a1d8984778646f780c96aca/preview.jpg",
+    "img_label":  "TYPE  cromado  ·  uere_v4_type_escuro_0325.png",
     "bpm":  120,
     "jobs":  [
                  {
@@ -38,7 +38,7 @@
                  {
                      "label":  "TYPE  cromado",
                      "kind":  "BLENDER",
-                     "done":  317,
+                     "done":  328,
                      "total":  480,
                      "status":  "renderizando"
                  },
