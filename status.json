@@ -1,8 +1,8 @@
 {
-    "updated":  "2026-11-15T23:15:15.5728848Z",
+    "updated":  "2026-11-15T23:18:15.6821858Z",
     "state":  "renderizando",
-    "current":  "TYPE  cromado  verde",
-    "overall":  82.6,
+    "current":  "TYPE  cromado  rosa",
+    "overall":  84.6,
     "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/d498714328ab747766331149b0c161436fdc4f8d/preview.jpg",
     "img_label":  "TYPE  disco ball  ·  uere_v4_type_escuro_disco_0480.png",
     "bpm":  120,
@@ -143,16 +143,16 @@
                  {
                      "label":  "TYPE  cromado  verde",
                      "kind":  "AE",
-                     "done":  400,
+                     "done":  480,
                      "total":  480,
-                     "status":  "renderizando"
+                     "status":  "ok"
                  },
                  {
                      "label":  "TYPE  cromado  rosa",
                      "kind":  "AE",
-                     "done":  0,
+                     "done":  147,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "renderizando"
                  },
                  {
                      "label":  "TYPE  disco ball  vermelho",
@@ -177,7 +177,7 @@
                  }
              ],
     "delivery":  {
-                     "done":  13,
+                     "done":  14,
                      "total":  18,
                      "link":  "https://drive.google.com/drive/folders/1o0JQplQZ5iNjRAn68oRWQvm3UarYdIgt?usp=sharing"
                  }
