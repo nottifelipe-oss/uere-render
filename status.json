@@ -1,8 +1,8 @@
 {
-    "updated":  "2026-11-15T23:00:15.3782333Z",
+    "updated":  "2026-11-15T23:03:15.4210586Z",
     "state":  "renderizando",
     "current":  "ASAS  disco ball  rosa",
-    "overall":  72.2,
+    "overall":  74.4,
     "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/d498714328ab747766331149b0c161436fdc4f8d/preview.jpg",
     "img_label":  "TYPE  disco ball  ·  uere_v4_type_escuro_disco_0480.png",
     "bpm":  120,
@@ -129,7 +129,7 @@
                  {
                      "label":  "ASAS  disco ball  rosa",
                      "kind":  "AE",
-                     "done":  158,
+                     "done":  409,
                      "total":  480,
                      "status":  "renderizando"
                  },
