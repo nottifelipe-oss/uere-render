@@ -1,10 +1,10 @@
 {
-    "updated":  "2026-11-15T07:25:02.6094232Z",
+    "updated":  "2026-11-15T07:28:02.0492694Z",
     "state":  "renderizando",
     "current":  "TYPE  disco ball",
-    "overall":  24.2,
-    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/871476f755e97ace34df21f3dd43505987288b6e/preview.jpg",
-    "img_label":  "TYPE  disco ball  ·  uere_v4_type_escuro_disco_0390.png",
+    "overall":  24.3,
+    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/527fc74b1b97f08a05b6afc9142026fd47f2e558/preview.jpg",
+    "img_label":  "TYPE  disco ball  ·  uere_v4_type_escuro_disco_0400.png",
     "bpm":  120,
     "jobs":  [
                  {
@@ -45,7 +45,7 @@
                  {
                      "label":  "TYPE  disco ball",
                      "kind":  "BLENDER",
-                     "done":  393,
+                     "done":  402,
                      "total":  480,
                      "status":  "renderizando"
                  },
