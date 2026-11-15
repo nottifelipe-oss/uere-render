@@ -1,10 +1,10 @@
 {
-    "updated":  "2026-11-15T00:42:34.7796968Z",
+    "updated":  "2026-11-15T00:45:34.9650251Z",
     "state":  "renderizando",
     "current":  "ASAS  cromado",
-    "overall":  9.6,
-    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/17c5253b93a38db6cf76a84ed183ae2f66932258/preview.jpg",
-    "img_label":  "ASAS  cromado  ·  uere_v4_asas_escuro_0150.png",
+    "overall":  9.8,
+    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/70d179a67628ec38f6a4d33fbe779151979158c4/preview.jpg",
+    "img_label":  "ASAS  cromado  ·  uere_v4_asas_escuro_0160.png",
     "bpm":  120,
     "jobs":  [
                  {
@@ -24,7 +24,7 @@
                  {
                      "label":  "ASAS  cromado",
                      "kind":  "BLENDER",
-                     "done":  151,
+                     "done":  165,
                      "total":  480,
                      "status":  "renderizando"
                  },
