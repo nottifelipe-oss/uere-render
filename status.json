@@ -1,8 +1,8 @@
 {
-    "updated":  "2026-11-15T22:21:11.7555985Z",
+    "updated":  "2026-11-15T22:24:11.8454297Z",
     "state":  "renderizando",
-    "current":  "COMPLETO  disco ball  verde",
-    "overall":  45.6,
+    "current":  "COMPLETO  disco ball  rosa",
+    "overall":  47.6,
     "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/d498714328ab747766331149b0c161436fdc4f8d/preview.jpg",
     "img_label":  "TYPE  disco ball  ·  uere_v4_type_escuro_disco_0480.png",
     "bpm":  120,
@@ -80,16 +80,16 @@
                  {
                      "label":  "COMPLETO  disco ball  verde",
                      "kind":  "AE",
-                     "done":  457,
+                     "done":  480,
                      "total":  480,
-                     "status":  "renderizando"
+                     "status":  "ok"
                  },
                  {
                      "label":  "COMPLETO  disco ball  rosa",
                      "kind":  "AE",
-                     "done":  0,
+                     "done":  208,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "renderizando"
                  },
                  {
                      "label":  "ASAS  cromado  vermelho",
@@ -177,7 +177,7 @@
                  }
              ],
     "delivery":  {
-                     "done":  4,
+                     "done":  5,
                      "total":  18,
                      "link":  "https://drive.google.com/drive/folders/1o0JQplQZ5iNjRAn68oRWQvm3UarYdIgt?usp=sharing"
                  }
