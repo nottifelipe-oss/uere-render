@@ -1,8 +1,8 @@
 {
-    "updated":  "2026-11-15T21:51:08.4030117Z",
-    "state":  "parado",
-    "current":  "",
-    "overall":  25,
+    "updated":  "2026-11-15T21:54:06.9145974Z",
+    "state":  "renderizando",
+    "current":  "COMPLETO  cromado  vermelho",
+    "overall":  27,
     "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/d498714328ab747766331149b0c161436fdc4f8d/preview.jpg",
     "img_label":  "TYPE  disco ball  ·  uere_v4_type_escuro_disco_0480.png",
     "bpm":  120,
@@ -52,9 +52,9 @@
                  {
                      "label":  "COMPLETO  cromado  vermelho",
                      "kind":  "AE",
-                     "done":  0,
+                     "done":  224,
                      "total":  480,
-                     "status":  "fila"
+                     "status":  "renderizando"
                  },
                  {
                      "label":  "COMPLETO  cromado  verde",
