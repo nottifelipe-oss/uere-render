@@ -1,9 +1,9 @@
 {
-    "updated":  "2026-11-15T23:40:39.5299145Z",
+    "updated":  "2026-11-15T23:40:47.3965876Z",
     "state":  "concluído",
     "current":  "",
     "overall":  100,
-    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/dab55e57c7e09ddda95ce9c858b5197f3ef4b71c/preview.jpg",
+    "img":  "https://raw.githubusercontent.com/nottifelipe-oss/uere-render/e893b22b80e03a151982b023079daa7ee167352c/preview.jpg",
     "img_label":  "TYPE  disco ball  ·  uere_v4_type_escuro_disco_0480.png",
     "bpm":  120,
     "jobs":  [
@@ -177,7 +177,7 @@
                  }
              ],
     "delivery":  {
-                     "done":  17,
+                     "done":  18,
                      "total":  18,
                      "link":  "https://drive.google.com/drive/folders/1o0JQplQZ5iNjRAn68oRWQvm3UarYdIgt?usp=sharing"
                  }
